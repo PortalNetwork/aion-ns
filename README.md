@@ -1,11 +1,8 @@
 # Aion Name Service
 
-> 📖🔍 Documents of the aion Name Service.
+> 📖🔍 Documents of the Aion Name Service.
 
 # Overview
-
-## 💡 What is Aion?
-Aion enables trillions of dollars of securities to migrate to the blockchain.
 
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as 'website.aion' or 'mywebsite.aion' into addresses understandable by decentralized network machines.
